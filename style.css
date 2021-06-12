@@ -1,0 +1,33 @@
+h1 {
+text-decoration: underline;
+text-decoration-color: aqua;
+}
+
+html {
+text-align: center;
+font-family: system-ui;
+background-image: url('images/space.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+height: 1000px;
+color: white;
+}
+
+footer {
+padding: 8px;
+background-color: peru;
+border: 3px solid black;
+border-radius: 20px;
+position: fixed;
+left: 0;
+bottom: 0;
+width: 98.16%;
+text-align: center;
+z-index: 9999;
+}
+
+canvas {
+border-radius: 20px;
+border: 3px solid salmon;
+background-color: white;
+}
